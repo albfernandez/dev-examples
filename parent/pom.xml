@@ -24,7 +24,7 @@
     <parent>
         <groupId>org.richfaces</groupId>
         <artifactId>richfaces-root-parent</artifactId>
-        <version>4.3.9.ayg</version>
+        <version>4.3.10.ayg</version>
         <relativePath>../../build/parent/pom.xml</relativePath>
     </parent>
 
